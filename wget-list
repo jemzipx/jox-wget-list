@@ -96,3 +96,6 @@ https://invisible-mirror.net/archives/lynx/tarballs/lynx2.8.9rel.1.tar.bz2
 https://www.libarchive.org/downloads/libarchive-3.3.3.tar.gz
 https://cdn-aws.deb.debian.org/debian/pool/main/f/fakeroot/fakeroot_1.23.orig.tar.xz
 https://sources.archlinux.org/other/pacman/pacman-5.1.3.tar.gz
+https://raw.githubusercontent.com/elkrejzi/pacman/master/tools/patches/fakeroot-fixes.patch
+https://cdn-aws.deb.debian.org/debian/pool/main/f/fakeroot/fakeroot_1.23.orig.tar.xz
+https://sources.archlinux.org/other/pacman/pacman-5.1.3.tar.gz
